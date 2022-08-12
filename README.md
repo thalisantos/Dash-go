@@ -1,5 +1,4 @@
-Dashboard utilizando Chakra UI, Next, Typescript, React Hook Form, React Query
-MirageJS
+Dashboard utilizando Chakra UI, Next, Typescript, React Hook Form, React Query, API fake usando o MirageJS
 Cache local 
 
 Autenticação e Refresh token 
